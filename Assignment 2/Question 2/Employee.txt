@@ -1,0 +1,7 @@
+
+101,Rahul,Python Developer,30000
+102,Anjali,Data Scientist,40000
+103,Arjun,AI Engineer,60000
+104,Neha,SDET,35000
+105,Ravi,Data Scientist,45000
+106,Simran,Python Developer,55000
